@@ -6,8 +6,15 @@ Created on Sun Aug 26 16:02:17 2018
 @author: hammad
 """
 import os
+import re
 #from sklearn.cluster import KMeans
 
+def getUniqueWords(allWords) :
+    uniqueWords = [] 
+    for i in allWords:
+        if not i in uniqueWords:
+            uniqueWords.append(i)
+    return uniqueWords
 filedata = []
 
 for dirpath, dirnames, filenames in os.walk('Doc50'):
@@ -15,14 +22,35 @@ for dirpath, dirnames, filenames in os.walk('Doc50'):
     
 i=0
 
+
 for file in filenames:
+    filedata2= ''
     fpath = os.getcwd()
     fpath = os.path.join(fpath, str(dirpath))
     fpath = os.path.join(fpath, str(filenames[i]))
     filee = open(fpath,mode='r')
-    filedata.append(filee.read())
+    filedata2=filee.read()
+    filedata2 = str.lower(filedata2)
+    filedata2=''.join(e for e in filedata2 if e.isalpha() or e==' ')
+    filedata2=re.sub(' +',' ',filedata2)
+#    filedata= filedata2[:-1]
+    filedata.append(filedata2)
     filee.close()
     i=i+1
+
+unique = []
+
+for fdata in filedata:
+    neww=fdata.split(' ')
+    neww=neww[:-1]
+    unique.append(neww)
+#    unique= unique[:-1]    
+
+unique=getUniqueWords(unique)
+#myset= list(set(unique))
+print(unique)
+
+
 
 #print(filedata)
  
