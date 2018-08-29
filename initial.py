@@ -5,9 +5,12 @@ Created on Sun Aug 26 16:02:17 2018
 
 @author: hammad
 """
+import time
 import os
+import math
 import re
 import numpy as np
+
 #from sklearn.cluster import KMeans
 
 def getUniqueWords(allWords) :
@@ -16,7 +19,10 @@ def getUniqueWords(allWords) :
         if not i in uniqueWords:
             uniqueWords.append(i)
     return uniqueWords
+
+start_time=  time.time()
 filedata = []
+
 
 for dirpath, dirnames, filenames in os.walk('Doc50'):
     print(filenames[4])
@@ -45,7 +51,7 @@ for fdata in filedata:
     neww=neww[:-1]
     unique.append(neww)
 #    unique= unique[:-1]    
-
+unique2 = list(unique)
 unique=getUniqueWords(unique)
 #myset= list(set(unique))
 #print(unique)
@@ -54,13 +60,81 @@ unique_np=np.hstack(unique)
 
 
 
+
 #unique_np= unique_np.flatten()
 #print(unique_np[50])
-print(unique_np)
-print("Type"+str(unique_np.shape))
+#print(unique_np)
+#print("Type"+str(unique_np.shape))
 unique_np= np.unique(unique_np)
-print(unique_np)
-print("Type"+str(unique_np.shape))
+#print(unique_np)
+#print("Type"+str(unique_np.shape))
+
+#weights = []
+
+weights = [[0 for x in range(unique_np.size)] for y in range(50)]
+
+k=0
+l=0
+for fdata2 in unique:
+    l=0
+    for x in unique_np:
+        weights[k][l]=fdata2.count(x)
+        l=l+1
+    k=k+1
+    
+"""
+i=0
+count=0
+
+    
+for fdata2 in unique:
+    nn=fdata2[i:]
+    nn=np.array(nn)
+    for x in unique_np:
+        for y in nn:
+            if x == y:
+                weights[i][count]=weights[i][count]+1       
+        count=count+1
+    i=i+1
+    count=0
+"""
+idf = [sum(x) for x in zip(*weights)]
+
+j=0
+for i in idf:
+    idf[j]=math.log10(50/i)
+    j=j+1
+
+
+
+print("Execution time:"+ str(time.time()-start_time))
+#    for index, x in np.ndenumerate(unique_np):
+##        print(x)
+#        for index2,y in np.ndenumerate(nn):
+##            print(y)
+#        #print(str(index)+" "+str(x))
+#            if  x == y:
+##                print("")
+#                weights[i][count]=weights[i][count]+1       
+#        count=count+1
+#    i=i+1
+#    count=0       
+
+    
+    
+    
+#    nn=fdata2[i:]
+#    nn=np.array(nn)
+    
+
+#    for j in np.nditer(nn):
+#        for count in unique_np:
+#            if  np.equal(unique_np[count] , nn[j]):
+#                weights[i,count]=weights[i,count]+1       
+#    i=i+1       
+    
+        
+        
 
 #print(filedata)
  
