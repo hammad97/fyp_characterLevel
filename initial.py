@@ -5,6 +5,14 @@ Created on Sun Aug 26 16:02:17 2018
 
 @author: hammad
 """
+from sklearn.decomposition import TruncatedSVD
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import HashingVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import Normalizer
+from sklearn import metrics
+#
 import time
 import os
 import math
@@ -14,19 +22,12 @@ import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 
-def getUniqueWords(allWords) :
-    uniqueWords = [] 
-    for i in allWords:
-        if not i in uniqueWords:
-            uniqueWords.append(i)
-    return uniqueWords
-
-start_time=  time.time()
-filedata = []
+start_time=  time.time()                                                        #Calculating initial time
+filedata = []   
 
 
-for dirpath, dirnames, filenames in os.walk('Doc50'):
-    print(filenames[4])
+for dirpath, dirnames, filenames in os.walk('Doc50'):                           #Reading all files in Doc50 folder and storing it names in
+    print(filenames[4])                                                         #filenames and path in dirpath
     
 i=0
 
@@ -35,53 +36,36 @@ for file in filenames:
     filedata2= ''
     fpath = os.getcwd()
     fpath = os.path.join(fpath, str(dirpath))
-    fpath = os.path.join(fpath, str(filenames[i]))
+    fpath = os.path.join(fpath, str(filenames[i]))                              #fpath now contains whole path to each file at each iteration
     filee = open(fpath,mode='r')
-    filedata2=filee.read()
-    filedata2 = str.lower(filedata2)
-    filedata2=''.join(e for e in filedata2 if e.isalpha() or e==' ')
-    filedata2=re.sub(' +',' ',filedata2)
-    filedata.append(filedata2)
+    filedata2=filee.read()                                                      #here file is read and stored in a temporary variable
+    filedata2 = str.lower(filedata2)                                            
+    filedata2=''.join(e for e in filedata2 if e.isalpha() or e==' ')            #here file is normalized from noisy text data by only keeping alphabetical values
+    filedata2=re.sub(' +',' ',filedata2)                                        #after performing above step there is a increase in spaces to remove them this step is done
+    filedata.append(filedata2)                                                  #finally file data is moved to actual variable from temporary one
     filee.close()
     i=i+1
 
 unique = []
 
-for fdata in filedata:
-    neww=fdata.split(' ')
-    neww=neww[:-1]
-    unique.append(neww)
-#    unique= unique[:-1]    
-unique2 = list(unique)
-unique=getUniqueWords(unique)
-#myset= list(set(unique))
-#print(unique)
-unique_np=np.hstack(unique)
+for fdata in filedata:                                                          #each files data was stored in one single string therefore each string is split ...
+    neww=fdata.split(' ')                                                       #...to obtain all the words from that document to be later used in VSM
+    neww=neww[:-1]                                                              #each document's last index contains ' ' as a feature which is removed from every where
+    unique.append(neww)                                                         #IMPORTANT NOTE: unique doesnot contain unique words of all files it is just the variable name...                    
+                                                                                #...containing 2d list where each row contains list of words used in one file
 
-#np.delete(unique_np)
-#np.empty(unique_np)
+unique_np=np.hstack(unique)                                                     
 
-
-
-#unique_np= unique_np.flatten()
-#print(unique_np[50])
-#print(unique_np)
-#print("Type"+str(unique_np.shape))
-
-unique_np= np.unique(unique_np)
+unique_np= np.unique(unique_np)                                                 #unique_np now is the dictionary containing all unique words from all 50 docs
 unique_npp=np.array(unique_np)
 
 uniq2= []
 for x in unique_npp:
     if len(x)>2:
         uniq2.append(x)
-unique_np=np.array(uniq2)
-#print(unique_np)
-#print("Type"+str(unique_np.shape))
+unique_np=np.array(uniq2)                                                       #now unique_mp contains unique words too but this time only of length >2
 
-#weights = []
-
-weights = [[0 for x in range(unique_np.size)] for y in range(50)]
+weights = [[0 for x in range(unique_np.size)] for y in range(50)]               #creation of a 2d list for holding weights for each word with respect to its doc
 
 k=0
 l=0
@@ -90,7 +74,7 @@ for fdata2 in unique:
     for x in unique_np:
         weights[k][l]=fdata2.count(x)
         l=l+1
-    k=k+1
+    k=k+1                                                                       #now we have tf stored in weights with respect to document number
     
 """
 i=0
@@ -108,7 +92,6 @@ for fdata2 in unique:
     i=i+1
     count=0
 """
-#idf = [sum(x) for x in zip(*weights)]
 
 idf = [0 for x in range(unique_np.size)]
 i=0
@@ -129,50 +112,37 @@ idf_np = np.array(idf)
 weights_npp = weights_np * idf_np
 
 #   works on float only       
-kmeans = KMeans(n_clusters=5)
-kmeans = kmeans.fit(weights_npp)
-labels = kmeans.predict(weights_npp)
-centroids = kmeans.cluster_centers_
-print(centroids)
-plt.scatter(centroids[0],centroids[1])
-plt.show()
+km = KMeans(n_clusters=5, init='k-means++', max_iter=100, n_init=1,verbose=0)
+
+print("Clustering sparse data with %s" % km)
+
+km.fit(weights_npp)s
+
+print()
+
+print("Labels:" + str(km.labels_))
+#print("Completeness: %0.3f" % metrics.completeness_score(labels, km.labels_))
+#print("V-measure: %0.3f" % metrics.v_measure_score(labels, km.labels_))
+#print("Adjusted Rand-Index: %.3f"
+#      % metrics.adjusted_rand_score(labels, km.labels_))
+#print("Silhouette Coefficient: %0.3f"
+#      % metrics.silhouette_score(X, km.labels_, sample_size=1000))
+
+print()
+
+
+
+print("Top terms per cluster:")
+
+order_centroids = km.cluster_centers_.argsort()[:, ::-1]
+
+terms = unique_np
+for i in range(5):
+    print("Cluster %d:" % i, end='')
+    for ind in order_centroids[i, :10]:
+        print(' %s' % terms[ind], end='')
+    print()
+
 
     
 print("Execution time:"+ str(time.time()-start_time))
-#    for index, x in np.ndenumerate(unique_np):
-##        print(x)
-#        for index2,y in np.ndenumerate(nn):
-##            print(y)
-#        #print(str(index)+" "+str(x))
-#            if  x == y:
-##                print("")
-#                weights[i][count]=weights[i][count]+1       
-#        count=count+1
-#    i=i+1
-#    count=0       
-
-    
-    
-    
-#    nn=fdata2[i:]
-#    nn=np.array(nn)
-    
-
-#    for j in np.nditer(nn):
-#        for count in unique_np:
-#            if  np.equal(unique_np[count] , nn[j]):
-#                weights[i,count]=weights[i,count]+1       
-#    i=i+1       
-    
-        
-        
-
-#print(filedata)
- 
-#   works on float only       
-#kmeans = KMeans(n_clusters=5)
-#kmeans = kmeans.fit(filedata)
-#labels = kmeans.predict(filedata)
-#centroids = kmeans.cluster_centers_
-#print(centroids)
-
