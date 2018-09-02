@@ -5,20 +5,21 @@ Created on Sun Aug 26 16:02:17 2018
 
 @author: hammad
 """
-from sklearn.decomposition import TruncatedSVD
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import HashingVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import Normalizer
-from sklearn import metrics
+#
+#from sklearn.decomposition import TruncatedSVD
+#from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.feature_extraction.text import HashingVectorizer
+#from sklearn.feature_extraction.text import TfidfTransformer
+#from sklearn.pipeline import make_pipeline
+#from sklearn.preprocessing import Normalizer
+#from sklearn import metrics
 #
 import time
 import os
 import math
 import re
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 
@@ -116,32 +117,34 @@ km = KMeans(n_clusters=5, init='k-means++', max_iter=100, n_init=1,verbose=0)
 
 print("Clustering sparse data with %s" % km)
 
-km.fit(weights_npp)s
+km.fit(weights_npp)
 
 print()
 
 print("Labels:" + str(km.labels_))
-#print("Completeness: %0.3f" % metrics.completeness_score(labels, km.labels_))
-#print("V-measure: %0.3f" % metrics.v_measure_score(labels, km.labels_))
-#print("Adjusted Rand-Index: %.3f"
-#      % metrics.adjusted_rand_score(labels, km.labels_))
-#print("Silhouette Coefficient: %0.3f"
-#      % metrics.silhouette_score(X, km.labels_, sample_size=1000))
 
 print()
 
+pred_classes = km.predict(weights_npp)
+
+filenames_np = np.array(filenames)
+
+for cluster in range(5):
+    print("Cluster: ", cluster)
+    print(filenames_np[np.where(pred_classes == cluster)])
+
+#print("Top terms per cluster:")
+#
+#order_centroids = km.cluster_centers_.argsort()[:, ::-1]
+#
+#terms = unique_np
+#for i in range(5):
+#    print("Cluster %d:" % i, end='')
+#    for ind in order_centroids[i, :10]:
+#        print(' %s' % terms[ind], end='')
+#    print()
 
 
-print("Top terms per cluster:")
-
-order_centroids = km.cluster_centers_.argsort()[:, ::-1]
-
-terms = unique_np
-for i in range(5):
-    print("Cluster %d:" % i, end='')
-    for ind in order_centroids[i, :10]:
-        print(' %s' % terms[ind], end='')
-    print()
 
 
     
