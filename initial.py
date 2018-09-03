@@ -19,6 +19,8 @@ import os
 import math
 import re
 import numpy as np
+import pandas as pd
+from nltk.corpus import stopwords
 #import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
@@ -31,7 +33,6 @@ for dirpath, dirnames, filenames in os.walk('Doc50'):                           
     print(filenames[4])                                                         #filenames and path in dirpath
     
 i=0
-
 
 for file in filenames:
     filedata2= ''
@@ -57,14 +58,18 @@ for fdata in filedata:                                                          
 
 unique_np=np.hstack(unique)                                                     
 
-unique_np= np.unique(unique_np)                                                 #unique_np now is the dictionary containing all unique words from all 50 docs
+unique_np= np.unique(unique_np) 
+#unique_np=unique_np.tolist()
+art=stopwords.words('english')
+filterwords=[ words for words in unique_np if words not in art]
+unique_np=np.hstack(filterwords)                                                #unique_np now is the dictionary containing all unique words from all 50 docs
 unique_npp=np.array(unique_np)
 
-uniq2= []
-for x in unique_npp:
-    if len(x)>2:
-        uniq2.append(x)
-unique_np=np.array(uniq2)                                                       #now unique_mp contains unique words too but this time only of length >2
+#uniq2= []
+#for x in unique_npp:
+#    if len(x)>2:
+#        uniq2.append(x)
+#unique_np=np.array(uniq2)                                                       #now unique_mp contains unique words too but this time only of length >2
 
 weights = [[0 for x in range(unique_np.size)] for y in range(50)]               #creation of a 2d list for holding weights for each word with respect to its doc
 
@@ -76,6 +81,12 @@ for fdata2 in unique:
         weights[k][l]=fdata2.count(x)
         l=l+1
     k=k+1                                                                       #now we have tf stored in weights with respect to document number
+
+counter = [sum(x) for x in zip(*weights)]
+for x in range(len(counter)):
+    if counter[x]<3:       
+        for y in range(50):
+            weights[y][x] = 0
     
 """
 i=0
@@ -100,20 +111,19 @@ for i in range(unique_np.size): #rows
     for j in range(50):
         if weights[j][i]>0:
             idf[i]=idf[i]+1
-    
-
 
 j=0
 for i in idf:
-    idf[j]=math.log10(50/i)
-    j=j+1
+    if i!=0:
+        idf[j]=math.log10(50/i)
+        j=j+1
 
 weights_np = np.array(weights)
 idf_np = np.array(idf)
 weights_npp = weights_np * idf_np
 
 #   works on float only       
-km = KMeans(n_clusters=5, init='k-means++', max_iter=100, n_init=1,verbose=0)
+km = KMeans(n_clusters=5, init='k-means++', n_init=10)
 
 print("Clustering sparse data with %s" % km)
 
@@ -133,6 +143,16 @@ for cluster in range(5):
     print("Cluster: ", cluster)
     print(filenames_np[np.where(pred_classes == cluster)])
 
+"""  FOR MAKING CONFUSION MATRIX
+# Create a DataFrame with labels and varieties as columns: df
+df = pd.DataFrame({'Labels': filenames, 'Clusters': km.labels_})
+
+# Create crosstab: ct
+ct = pd.crosstab(df['Labels'], df['Clusters'])
+
+# Display ct
+print(ct)
+"""
 #print("Top terms per cluster:")
 #
 #order_centroids = km.cluster_centers_.argsort()[:, ::-1]
