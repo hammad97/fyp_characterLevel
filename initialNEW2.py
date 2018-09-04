@@ -57,19 +57,17 @@ filedata4=[]
                                                     #...containing 2d list where each row contains list of words used in one file
 ps=PorterStemmer()
 for w in filedata:
-    words= word_tokenize(w)
-    for s in words:
-        filedata3.append(ps.stem(s))
-    filedata4.append(filedata3)
+    filedata3.append(ps.stem(w))
+   
 unique = []
 
-for fdata in filedata:                                                          #each files data was stored in one single string therefore each string is split ...
+for fdata in filedata3:                                                          #each files data was stored in one single string therefore each string is split ...
     neww=fdata.split(' ')                                                       #...to obtain all the words from that document to be later used in VSM
     neww=neww[:-1]                                                              #each document's last index contains ' ' as a feature which is removed from every where
     unique.append(neww)                                                         #IMPORTANT NOTE: unique doesnot contain unique words of all files it is just the variable name...                    
                         
 count_vec = CountVectorizer(stop_words='english',
-                            ngram_range=(1, 1), max_df=0.99, min_df=0.06, max_features=None)
+                            ngram_range=(1, 1), max_df=0.2, min_df=0.1, max_features=None)
 #count_train = count_vec.fit(filedata)
 #bag_of_words = count_vec.transform(filedata)
 bag_of_words2=count_vec.fit_transform(filedata)
