@@ -56,7 +56,7 @@ for fdata in filedata:                                                          
     neww=neww[:-1]                                                              #each document's last index contains ' ' as a feature which is removed from every where
     unique.append(neww)                                                         #IMPORTANT NOTE: unique doesnot contain unique words of all files it is just the variable name...                    
                                                                                 #...containing 2d list where each row contains list of words used in one file
-tfidf_vector = TfidfVectorizer(stop_words='english')
+tfidf_vector = TfidfVectorizer(stop_words='english', max_df = 10)
 tfidf_matrix = tfidf_vector.fit_transform(filedata)
 print('tfidf_matrix shape: ',tfidf_matrix.shape)
 
