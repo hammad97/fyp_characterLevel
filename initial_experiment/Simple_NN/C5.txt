@@ -1,0 +1,1230 @@
+Path: cantaloupe.srv.cs.cmu.edu!das-news.harvard.edu!husc-news.harvard.edu!kuhub.cc.ukans.edu!hubble.asymetrix.com!rpi!uwm.edu!biosci!parc!decwrl!decwrl!uunet!mri!jeff
+Newsgroups: rec.motorcycles
+Subject: Re: Lexan Polish?
+Message-ID: <1993Mar22.215141.28352@mri.com>
+From: jeff@mri.com (Jonathan Jefferies)
+Date: 22 Mar 93 21:51:41 GMT
+Sender: jeff@mir.com
+Expires: Sun, 8 Aug 1993 07:00:00 GMT
+References: <C41soE.M62@ns1.nodak.edu>
+Organization: Microtec Research, Santa Clara, California, USA
+Keywords: Lexan, Plastic
+Summary: Scratches in Plastic
+Lines: 27
+
+In article <C41soE.M62@ns1.nodak.edu> wilken@plains.NoDak.edu (Scott Wilken) writes:
+>A couple of years ago I replaced the stock windscreen on my Interceptor
+>with a higher one from National Cycle.  The thing happens to be made of
+>Lexan.
+>
+>Can anyone recommend a polish to use on it that is safe for lexan?  Its
+>starting to show a few scratches, and id like to polish them out..
+>Go FAST!            |  Internet:  wilken@plains.nodak.edu   |     AMA #587126 
+>Take Chances!       |     UUCP: ..!uunet!plains!wilken      |     DoD #0087 
+>VF700F Interceptor  |        Bitnet:  WILKEN@PLAINS         |   
+
+Suggest McQuires #1 plastic polish.  It will help somewhat but nothing 
+will remove deep scratches without making it worse than it already is.
+McQuires will do something for fine or light stuff.
+
+Also suggest calling your local plastic shop.  In Calif. "TAP PLASTIC" is
+a chain that carries most of what is needed for repair and sometimes
+replacement of plastic bits.  Telephone in the Bay area is 415-962-8430.
+I'm not sure how amenable they are to shipping.  I have found that they
+have several excellent products for cleaning, and removing crap from
+windscreens and face shields.  Also they have one called "lift-it" which
+works real well in removing sticky stuffs such as adhessives from plastic
+wihtout scratching same.
+
+Luck,
+
+Jonathan Jefferies, jeff@mri.com
+Xref: cantaloupe.srv.cs.cmu.edu rec.motorcycles:102616 rec.motorcycles.dirt:3539 rec.motorcycles.harley:3023 rec.motorcycles.racing:1903
+Path: cantaloupe.srv.cs.cmu.edu!das-news.harvard.edu!ogicse!uwm.edu!cs.utexas.edu!uunet!orca!javelin.sim.es.com!blgardne
+From: blgardne@javelin.sim.es.com (Dances With Bikers)
+Newsgroups: rec.motorcycles,rec.motorcycles.dirt,rec.motorcycles.harley,rec.motorcycles.racing
+Subject: FAQ - What is the DoD?
+Summary: Everything you always wanted to know about DoD, but were afraid to ask
+Keywords: DoD FAQ
+Message-ID: <DoD.monthly_733561501@javelin.sim.es.com>
+Date: 31 Mar 93 07:05:04 GMT
+Article-I.D.: javelin.DoD.monthly_733561501
+Expires: Sun, 30 May 1993 07:05:01 GMT
+Sender: blgardne@javelin.sim.es.com (Blaine Gardner)
+Reply-To: blgardne@javelin.sim.es.com
+Followup-To: rec.motorcycles
+Organization: Evans & Sutherland Computer Corporation
+Lines: 849
+Supersedes: <DoD.monthly_730969501@javelin.sim.es.com>
+
+This is a periodic posting intended to answer the Frequently Asked
+Question: What is the DoD? It is posted the first of each month, with
+an expiration time of over a month. Thus, unless your site's news
+software is ill-mannered, this posting should always be available.
+This WitDoDFAQ is crossposted to all four rec.motorcycles groups in an
+attempt to catch most new users, and followups are directed to
+rec.motorcycles.
+
+Last changed 9-Feb-93 to add a message from the KotL, and a bit of
+Halon.
+
+			VERSION 1.1
+
+This collection was originally assembled by Lissa Shoun, from the
+original postings. With Lissa's permission, I have usurped the title of
+KotWitDoDFAQ. Any corrections, additions, bribes, etc. should be aimed at
+blgardne@javelin.sim.es.com.
+
+------------------------------------------------------------------------
+
+Contents:
+How do I get a DoD number?	by Blaine Gardner	DoD #46
+DoD "Road Rider" article	by Bruce Tanner		DoD #161
+What is the DoD?		by John Sloan		DoD #11
+The DoD Logo			by Chuck Rogers		DoD #3
+The DoD  (this started it all)	by The Denizen of Doom	DoD #1
+The DoD Anthem			by Jonathan Quist	DoD #94
+Why you have to be killed	by Blaine Gardner	DoD #46
+The rec.moto.photo.archive	courtesy of Bruce Tanner DoD #161
+Patches? What patches?		by Blaine Gardner	DoD #46
+Letter from the AMA museum      by Jim Rogers, Director DoD #395
+The DoD Rules			by consensus
+Other rec.moto resources	by various Keepers	DoD #misc
+The rec.moto.reviews.archive	courtesy of Loki Jorgenson DoD #1210
+Updated stats & rides info	by Ed Green (DoD #111) and others
+
+------------------------------------------------------------------------
+			How do I get a DoD number?
+
+If the most Frequently Asked Question in rec.motorcycles is "What is the
+DoD?", then the second most Frequently Asked Question must be "How do I
+get a DoD number?" That is as simple as asking the Keeper of the List
+(KotL, accept no substitue Keepers) for a number. If you're feeling
+creative, and your favorite number hasn't been taken already, you can
+make a request, subject to KotL approval. (Warning, non-numeric, non-
+base-10 number requests are likely to earn a flame from the KotL. Not
+that you won't get it, but you _will_ pay for it.)
+
+Oh, and just one little, tiny suggestion. Ask the KotL in e-mail. You'll
+just be playing the lightning rod for flames if you post to the whole
+net, and you'll look like a clueless newbie too.
+
+By now you're probably asking "So who's the KotL already?". Well, as
+John Sloan notes below, that's about the only real "secret" left around
+here, but a few (un)subtle hints can be divulged. First, it is not myself,
+nor anyone mentioned by name in this posting (maybe :-), though John was
+the original KotL. Second, in keeping with the true spirit of Unix, the
+KotL's first name is only two letters long, and can be spelled entirely
+with hexadecimal characters. (2.5, the KotL shares his name with a line-
+oriented text utility.) Third, he has occasionally been seen posting
+messages bestowing new DoD numbers (mostly to boneheads with "weenie
+mailers"). Fourth, there is reason to suspect the KotL of being a
+Dead-Head.
+
+***************** Newsflash: A message from the KotL ******************
+
+Once you have surmounted this intellectual pinnacle and electronically
+groveled to the KotL, please keep in mind that the KotL does indeed
+work for a living, and occasionally must pacify its boss by getting
+something done.  Your request may languish in mailer queue for (gasp!)
+days, perhaps even (horrors!) a week or two.  During such times of
+economic activity on the part of the KotL's employers, sending yet
+another copy of your request will not speed processing of the queue (it
+just makes it longer, verification of this phenominon is left as an
+excersize for the reader).  If you suspect mailer problems, at least
+annotate subsequent requests with an indication that a former request
+was submitted, lest you be assigned multiple numbers (what, you think
+the KotL *memorizes* the list?!?).
+
+***********************************************************************
+
+One more thing, the KotL says that its telepathic powers aren't what
+they used to be. So provide some information for the list, will ya?
+The typical DoD List entry contains number, name, state/country, &
+e-mail address. For example:
+
+0111:Ed Green:CA:ed.green@East.Sun.COM
+
+(PS: While John mentions below that net access and a bike are the only
+requirements for DoD membership, that's not strictly true these days, as
+there are a number of Denizens who lack one or both.)
+
+Blaine (Dances With Bikers) Gardner   blgardne@javelin.sim.es.com
+
+------------------------------------------------------------------------
+
+            "Denizens of Doom", by Bruce Tanner (DoD 0161)
+
+      [Road Rider, August 1991, reprinted with Bruce's permission]
+
+There is a group of motorcyclists that gets together and does all the normal 
+things that a bunch of bikers do.  They discuss motorcycles and  
+motorcycling, beverages, cleaning fluids, baklavah, balaclava, caltrops,  
+helmets, anti-fog shields, spine protectors, aerodynamics, three-angle valve
+seats, bird hits, deer whistles, good restaurants, racing philosophy, 
+traffic laws, tickets, corrosion control, personalities, puns, double 
+entendres, culture, absence of culture, first rides and friendship.  They 
+argue with each other and plan rides together.
+
+The difference between this group and your local motorcycle club is that, 
+although they get together just about everyday, most have never seen each 
+other face to face.  The members of this group live all over the known world 
+and communicate with each other electronically via computer.
+
+The computers range from laptops to multi-million dollar computer centers;  
+the people range from college and university students to high-tech industry 
+professionals to public-access electronic bulletin-board users.  Currently, 
+rec.motorcycles (pronounced "wreck-dot-motorcycles," it's the file name for 
+the group's primary on-line "meeting place") carries about 2250 articles per 
+month;  it is read by an estimated 29,000 people.  Most of the frequent 
+posters belong to a motorcycle club, the Denizens of Doom, usually referred 
+to as the DoD.
+
+The DoD started when motorcyclist John R. Nickerson wrote a couple of 
+parodies designed to poke fun at motorcycle stereotypes.  Fellow computer 
+enthusiast Bruce Robinson posted these articles under the pen name, "Denizen 
+of Doom."  A while later Chuck Rogers signed off as DoD nr. 0003 Keeper of 
+the Flame.  Bruce was then designated DoD nr. 0002, retroactively and, of 
+course, Nickerson, the originator of the parodies, was given DoD nr. 0001.
+
+The idea of a motorcycle club with no organization, no meetings and no rules 
+appealed to many, so John Sloan -- DoD nr. 0011 -- became Keeper of the 
+List, issuing DoD numbers to anyone who wanted one.  To date there have been 
+almost 400 memberships issued to people all over the United States and 
+Canada, as well as Australia, New Zealand, the United Kingdom, France, 
+Germany, Norway and Finland.
+
+Keeper of the List Sloan eventually designed a club patch.  The initial run 
+of 300 patches sold out immediately.  The profits from this went to the 
+American Motorcycle Heritage Foundation.  Another AMHF fund raiser -- 
+selling Denizens of Doom pins to members -- was started by Arnie Skurow a 
+few months later.  Again, the project was successful and the profits were 
+donated to the foundation.  So far, the Denizens have contributed over $1500 
+to the AMA museum.  A plaque in the name of the Denizens of Doom now hangs 
+in the Motorcycle Heritage Museum.
+
+As often as possible, the DoD'ers crawl out from behind their CRTs and go 
+riding together.  It turns out that the two largest concentrations of 
+DoD'ers are centered near Denver/Boulder, Colorado, and in California's 
+"Silicon Valley."  Consequently, two major events are the annual Assault on 
+Rollins Pass in Colorado, and the Northern versus Southern California 
+"Joust."
+
+The Ride-and-Feed is a bike trip over Rollins Pass, followed by a big 
+barbecue dinner.  The concept for the Joust is to have riders from Northern 
+California ride south; riders from Southern California to ride north, 
+meeting at a predesignated site somewhere in the middle.  An additional plan 
+for 1991 is to hold an official Denizens of Doom homecoming in conjunction 
+with the AMA heritage homecoming in Columbus, Ohio, in July.
+
+Though it's a safe bet the the Denizens of Doom and their collective 
+communications hub, rec.motorcycles, will not replace the more traditional 
+motorcycle organizations, for those who prowl the electronic pathways in 
+search of two-wheeled camaraderie, it's a great way for kindred spirits to 
+get together.  Long may they flame.
+
+
+"Live to Flame -- Flame to Live"	[centerbar]
+
+This official motto of the Denizens of Doom refers to the ease with which 
+you can gratuitously insult someone electronically, when you would not do 
+anything like that face to face.  These insults are known as "flames";  
+issuing them is called "flaming."  Flames often start when a member 
+disagrees with something another member has posted over the network.  A 
+typical, sophisticated, intelligent form of calm, reasoned rebuttal would be 
+something like:  "What an incredibly stupid statement, you Spandex-clad 
+poseur!"  This will guarantee that five other people will reply in defense 
+of the original poster, describing just what they think of you, your riding 
+ability and your cat.
+
+------------------------------------------------------------------------
+
+          _The Denizens of Doom: The Saga Unfolds_
+
+                  by John Sloan  DoD #0011
+
+Periodically the question "What is DoD?" is raised. This is one of
+those questions in the same class as "Why is the sky blue?", "If there
+is a God, why is there so much suffering in the world?" and "Why do
+women inevitably tell you that you're such a nice guy just before they
+dump you?", the kinds of questions steeped in mysticism, tradition,
+and philosophy, questions that have inspired research and discussion
+by philosophers in locker rooms, motorcycle service bays, and in the
+halls of academe for generations. 
+
+A long, long time ago (in computer time, where anything over a few
+minutes is an eternity and the halting problem really is a problem) on
+a computer far, far away on the net (topologically speaking; two
+machines in the same room in Atlanta might route mail to one another
+via a system in Chicago), a chap who wished to remain anonymous (but
+who was eventually assigned the DoD membership #1) wrote a satire of
+the various personalities and flame wars of rec.motorcycles, and
+signed it "The Denizen of Doom". Not wishing to identify himself, he
+asked that stalwart individual who would in the fullness of time
+become DoD #2 to post it for him. DoD #2, not really giving a whit
+about what other people thought and generally being a right thinking
+individual, did so.  Flaming and other amusements followed. 
+
+He who would become the holder of DoD membership #3 thought this was
+the funniest thing he'd seen in a while (being the sort that is pretty
+easily amused), so he claimed membership in the Denizens of Doom
+Motorcycle Club, and started signing his postings with his membership
+number. 
+
+Perhaps readers of rec.motorcycles were struck with the vision of a
+motorcycle club with no dues, no rules, no restrictions as to brand or
+make or model or national origin of motorcycle, a club organized
+electronically.  It may well be that readers were yearning to become a
+part of something that would provide them with a greater identity, a
+gestalt personality, something in which the whole was greater than the
+sum of its parts.  It could also be that we're all computer nerds who
+wear black socks and sneakers and pocket protectors, who just happen
+to also love taking risks on machines with awesome power to weight
+ratios, social outcasts who saw a clique that would finally be open
+minded enough to accept us as members. 
+
+In a clear case of self fulfilling prophesy, The Denizens of Doom
+Motorcycle Club was born. A club in which the majority of members have
+never met one another face to face (and perhaps like it that way), yet
+feel that they know one another pretty well (or well enough given some
+of the electronic personalities in the newsgroup). A club organized
+and run (in the loosest sense of the word) by volunteers through the
+network via electronic news and mail, with a membership/mailing list
+(often used to organize group rides amongst members who live in the
+same region), a motto, a logo, a series of photo albums circulating
+around the country (organized by DoD #9), club patches (organized by
+#11), and even an MTV-style music video (produced by #47 and
+distributed on VHS by #18)! 
+
+Where will it end? Who knows? Will the DoD start sanctioning races,
+placing limits on the memory and clock rate of the on-board engine
+management computers? Will the DoD organize poker runs where each
+participant collects a hand of hardware and software reference cards?
+Will the DoD have a rally in which the attendees demand a terminal
+room and at least a 386-sized UNIX system? Only time will tell. 
+
+The DoD has no dues, no rules, and no requirements other than net
+access and a love for motorcycles. To become a member, one need only
+ask (although we will admit that who you must ask is one of the few
+really good club secrets). New members will receive via email a
+membership number and the latest copy of the membership list, which
+includes name, state, and email address. 
+
+The Denizens of Doom Motorcycle Club will live forever (or at least
+until next year when we may decided to change the name). 
+
+                  Live to Flame - Flame to Live
+
+------------------------------------------------------------------------
+
+     The DoD daemon as seen on the patches, pins, etc. by
+
+	Chuck Rogers,  car377@druhi.att.com,  DoD #0003
+ 
+
+                :-(           DoD            )-: 
+               :-(  x    __         __    x   )-:      
+              :-(  x    / /         \ \    x   )-:     
+             :-(  x    / / -\-----/- \ \    x   )-:    
+            :-(  L     | \/  \   /  \/ |     F   )-:   
+            :-(  I     | /    \ /    \ |     L   )-:   
+            :-(  V     \/ __   /   __ \/     A   )-:   
+            :-(  E     / /  \     /  \ \     M   )-:   
+            :-(        | |   \   /   | |     E   )-:   
+            :-(  T     | | . | _ | . | |         )-:   
+            :-(  O     | \___// \\___/ |     T   )-:   
+            :-(         \     \_/     /      O   )-:   
+            :-(  F       \___     ___/           )-:   
+            :-(  L        \ \     / /        L   )-:   
+            :-(  A         \ vvvvv /         I   )-:   
+            :-(  M         | (   ) |         V   )-:   
+            :-(  E         | ^^^^^ |         E   )-:   
+             :-(  x        \_______/        x   )-:    
+              :-(  x                       x   )-:     
+               :-(  x   rec.motorcycles   x   )-:
+                :-(          USENET          )-:
+
+
+------------------------------------------------------------------------
+
+                      The DoD
+
+              by the Denizen of Doom    DoD #1
+ 
+Welcome one and all to the flamingest, most wonderfullest newsgroup of
+all time: wreck.mudder-disciples or is it reak.mudder-disciples? The
+Names have been changes to protect the Guilty (riders) and Innocent
+(the bikes) alike. If you think you recognize a contorted version of
+your name, you don't. It's just your guilt complex working against
+you. Read 'em and weep. 
+
+We tune in on a conversation between some of our heros. Terrible
+Barbarian is extolling the virtues of his Hopalonga Puff-a-cane to
+Reverend Muck Mudgers and Stompin Fueling-Injection: 
+
+Terrible: This Hopalonga is the greatest... Beats BMWs dead!! 
+
+Muck: I don't mean to preach, Terrible, but lighten up on the BMW
+     crowd eh?  I mean like I like riding my Yuka-yuka Fudgeo-Jammer
+     11 but what the heck.  
+
+Stompin: No way, the BMW is it, complete, that's all man.
+
+Terrible: Nahhhh, you're sounding like Heritick Ratatnack! Hey, at
+     least he is selling his BMW and uses a Hopalonga Intercorruptor!
+     Not as good as a Puff-a-cane, should have been called a
+     Woosh-a-stream.
+
+Stompin: You mean Wee-Stream.
+
+Terrible: Waddya going to do? Call in reinforcements???
+
+Stompin: Yehh man. Here comes Arlow Scarecrow and High Tech. Let's see
+     what they say, eh? 
+
+Muck: Now men, let's try to be civil about this.
+
+High Tech: Hi, I'm a 9 and the BMW is the greatest.
+
+Arlow: Other than my B.T. I love my BMW!
+
+Terrible: B.T.???
+
+Arlow: Burley Thumpison, the greatest all American ride you can own.
+
+Muck: Ahhh, look, you're making Terrible gag.
+
+Terrible: What does BMW stand for anyway??? 
+
+Muck, Arlow, High: Beats Me, Wilhelm.
+
+Terrible: Actually, my name is Terrible. Hmmm, I don't know either.
+
+Muck: Say, here comes Chunky Bear.
+
+Chunky: Hey, Hey, Hey! Smarter than your average bear!
+
+Terrible: Hey, didn't you drop your BMW???
+
+Chunky: All right eh, a little BooBoo, but I left him behind. I mean 
+     even Villy Ogle flamed me for that! 
+
+Muck: It's okay, we all makes mistakes.
+
+Out of the blue the West coasters arrive, led by Tread Orange with
+Dill Snorkssy, Heritick Ratatnack, Buck Garnish, Snob Rasseller and
+the perenial favorite: Hooter Boobin Brush! 
+
+Heritick: Heya Terrible, how's yer front to back bias?
+
+Terrible: Not bad, sold yer BMW?
+
+Heritick: Nahhh.
+
+Hooter: Hoot, Hoot.
+
+Buck: Nice tree Hooter, how'd ya get up there?
+
+Hooter: Carbujectors from Hell!!!
+
+Muck: What's a carbujector?
+
+Hooter: Well, it ain't made of alumican!!! Made by Tilloslert!!
+
+Muck: Ahh, come on down, we aren't going to flame ya, honest!!
+
+Dill: Well, where do we race?
+
+Snob: You know, Chunky, we know about about your drop and well, don't
+     ride! 
+
+Muck: No! No! Quiet!
+
+Tread: BMW's are the greatest in my supreme level headed opinion.
+     They even have luggage made by Sourkraut!
+
+High: My 9 too!
+
+Terrible, Heritick, Dill, Buck: Nahhhhh!!!
+
+Stompin, Tread, High, Chunky, Snob: Yesss Yessssss!!!
+
+Before this issue could be resolved the Hopalonga crew called up more
+cohorts from the local area including Polyanna Stirrup and the
+infamous Booster Robiksen on his Cavortin! 
+
+Polyanna: Well, men, the real bikers use stirrups on their bikes like
+     I use on my Hopalonga Evening-Bird Special. Helpful for getting
+     it up on the ole ventral stand!  
+
+Terrible: Hopalonga's are great like Polyanna says and Yuka-Yuka's and
+     Sumarikis and Kersnapis are good too! 
+
+Booster: I hate Cavortin.
+
+All: WE KNOW, WE KNOW.
+
+Booster: I love Cavortin.
+
+All: WE KNOW WE KNOW.
+
+Muck: Well, what about Mucho Guzlers and Lepurras?
+
+Snob, Tread: Nawwwwww.
+
+Muck: What about a Tridump?
+
+Terrible: Isn't that a chewing gum?
+
+Muck: Auggggg, Waddda about a Pluck-a-kity?
+
+Heritick: Heyya Muck, you tryin' to call up the demon rider himself?
+
+Muck: No, no. There is more to Mudder-Disciples than arguing about make.
+
+Two more riders zoom in, in the form of Pill Turret and Phalanx Lifter.
+Pill: Out with dorsal stands and ventral stands forever.
+
+Phalanx: Hey, I don't know about that.
+
+And Now even more west coasters pour in.
+Road O'Noblin: Hopalonga's are the greatest!
+
+Maulled Beerstein: May you sit on a bikejector!
+
+Suddenly more people arrived from the great dark nurth:
+Kite Lanolin: Hey, BMW's are great, men.
+
+Robo-Nickie: I prefer motorcycle to robot transformers, personally.
+
+More riders from the west coast come into the discussion:
+Aviator Sourgas: Get a Burley-Thumpison with a belted-rigged frame.
+
+Guess Gasket: Go with a BMW or Burley-Thumpison.
+
+With a roar and a screech the latest mudder-disciple thundered in. It
+was none other that Clean Bikata on her Hopalonga CaBammerXorn. 
+Clean: Like look, Hopalonga are it but only CaBammerXorns. 
+
+Muck: Why??
+
+Clean: Well, like it's gotta be a 6-banger or nothin.
+
+Muck: But I only have a 4-banger.
+
+Clean: No GOOD!
+
+Chunky: Sob, some of us only have 2-bangers!
+
+Clean: Inferior!
+
+Stompin: Hey, look, here's proof BMW's are better. The Bimmer-Boys
+burst into song: (singing) Beemer Babe, Beemer Babe give me a
+thrill... 
+
+Road, Terrible, Polyanna, Maulled, Dill etc.: Wadddoes BMW stand for? 
+
+Heritick, Stompin, Snob, Chunky, Tread, Kite, High, Arlow: BEAT'S ME,
+     WILHEM! 
+
+Road, Terrible, Polyanna, Maulled, Dill etc.: Oh, don't you mean BMW? 
+
+And so the ensuing argument goes until the skies clouded over and the
+thunder roared and the Greatest Mudder-Disciple (G.M.D.) of them all
+boomed out.
+G.M.D.: Enough of your bickering! You are doomed to riding
+     Bigot & Suction powered mini-trikes for your childish actions. 
+
+All: no, No, NO!!! Puhlease.
+
+Does this mean that all of the wreck.mudder-disciples will be riding
+mini-trikes?  Are our arguing heros doomed?  Tune in next week for the
+next gut wretching episode of "The Yearning and Riderless" with its
+ever increasing cast of characters.  Where all technical problems will
+be flamed over until well done.  Next week's episode will answer the
+question of: "To Helmet or Not to Helmet" will be aired, this is heady
+material and viewer discretion is advised. 
+
+------------------------------------------------------------------------
+
+          Script for the Denizens of Doom Anthem Video
+
+                by Jonathan E. Quist   DoD #94
+
+
+[Scene:  A sterile engineering office.  A lone figure, whom we'll call
+Chuck, stands by a printer output bin, wearing a white CDC lab coat,
+with 5 mechanical pencils in a pocket protector.] 
+
+(editor's note: For some reason a great deal of amusement was had at
+the First Annual DoD Uni-Coastal Ironhorse Ride & Joust by denizens
+referring to each other as "Chuck". I guess you had to be there. I
+wasn't.) 
+
+Chuck:  I didn't want to be a Software Systems Analyst,
+ cow-towing to the whims of a machine, and saying yessir, nosir,
+ may-I-have-another-sir.  My mother made me do it.  I wanted
+ to live a man's life,
+[Music slowly builds in background]
+ riding Nortons and Triumphs through the highest mountain passes
+ and the deepest valleys,
+ living the life of a Motorcyclist;
+ doing donuts and evading the police;
+ terrorizing old ladies and raping small children;
+ eating small dogs for tea (and large dogs for dinner).  In short,
+
+	I Want to be      A Denizen!
+
+[Chuck rips off his lab coat, revealing black leather jacket (with
+fringe), boots, and cap.  Scene simultaneously changes to the top of
+an obviously assaulted Rollins Pass.  A small throng of Hell's Angels
+sit on their Harleys in the near background, gunning their engines,
+showering lookers-on with nails as they turn donuts, and leaking oil
+on the tarmac.  Chuck is standing in front of a heavily chromed Fat
+Boy.] 
+
+Chuck [Sings to the tune of "The Lumberjack Song"]:
+
+I'm a Denizen and I'm okay,
+I flame all night and I ride all day.
+
+[Hell's Angels Echo Chorus, surprisingly heavy on tenors]:
+He's a Denizen and he's okay,
+He flames all night and he rides all day.
+
+I ride my bike;
+I eat my lunch;
+I go to the lavat'ry.
+On Wednesdays I ride Skyline,
+Running children down with glee.
+
+[Chorus]:
+He rides his bike;
+He eats his lunch;
+He goes to the lavat'ry.
+On Wednesdays he rides Skyline,
+Running children down with glee.
+
+[Chorus refrain]:
+'Cause He's a Denizen...
+
+I ride real fast,
+My name is Chuck,
+It somehow seems to fit.
+I over-rate the worst bad f*ck,
+But like a real good sh*t.
+
+Oh, I'm a Denizen and I'm okay!
+I flame all night and I ride all day.
+
+[Chorus refrain]:
+Oh, He's a Denizen...
+
+I wear high heels
+And bright pink shorts,
+ full leathers and a bra.
+I wish I rode a Harley,
+ just like my dear mama.
+
+[Chorus refrain]
+
+------------------------------------------------------------------------
+
+                    Why you have to be killed.
+
+Well, the first thing you have to understand (just in case you managed
+to read this far, and still not figure it out) is that the DoD started
+as a joke. And in the words of one Denizen, it intends to remain one.
+
+Sometime in the far distant past, a hapless newbie asked: "What does DoD
+stand for? It's not the Department of Defense is it?" Naturally, a
+Denizen who had watched the movie "Top Gun" a few times too many rose
+to the occasion and replied:
+
+"That's classified, we could tell you, but then we'd have to kill you."
+
+And the rest is history.
+
+A variation on the "security" theme is to supply disinformation about
+what DoD stands for. Notable contributions (and contributers, where
+known) include:
+
+Daughters of Democracy (DoD 23)		Doers of Donuts
+Dancers of Despair (DoD 9)		Debasers of Daughters
+Dickweeds of Denver			Driveway of Death
+Debauchers of Donuts			Dumpers of Dirtbikes
+
+Note that this is not a comprehensive list, as variations appear to be
+limited only by the contents of one's imagination or dictionary file.
+
+------------------------------------------------------------------------
+
+                     The rec.moto.photo archive
+
+First a bit of history, this all started with Ilana Stern and Chuck
+Rogers organizing a rec.motorcycles photo album. Many copies were made,
+and several sets were sent on tours around the world, only to vanish in
+unknown locations. Then Bruce Tanner decided that it would be appropriate
+for an electronic medium to have an electronic photo album. Bruce has not
+only provided the disk space and ftp & e-mail access, but he has taken
+the time to scan most of the photos that are available from the archive.
+
+Not only can you see what all these folks look like, you can also gawk
+at their motorcycles. A few non-photo files are available from the
+server too, they include the DoD membership list, the DoD Yellow Pages,
+the general rec.motorcycles FAQ, and this FAQ posting.
+
+Here are a couple of excerpts from from messages Bruce posted about how
+to use the archive.
+
+**********************************************************
+
+Via ftp:
+
+cerritos.edu [130.150.200.21]
+
+Via e-mail:
+
+The address is server@cerritos.edu.  The commands are given in the body of the
+message.  The current commands are DIR and SEND, given one per line.  The
+arguments to the commands are VMS style file specifications.  For
+rec.moto.photo the file spec is [DOD]file.  For example, you can send:
+
+dir [dod]
+send [dod]bruce_tanner.gif
+send [dod]dodframe.ps
+
+and you'll get back 5 mail messages; a directory listing, 3 uuencoded parts
+of bruce_tanner.gif, and the dodframe.ps file in ASCII.
+
+Oh, wildcards (*) are allowed, but a maximum of 20 mail messages (rounded up to
+the next whole file) are send.  A 'send [dod]*.gif' would send 150 files of
+50K each; not a good idea.
+-- 
+Bruce Tanner        (213) 860-2451 x 596    Tanner@Cerritos.EDU
+Cerritos College    Norwalk, CA             cerritos!tanner
+
+**********************************************************
+
+A couple of comments: Bruce has put quite a bit of effort into this, so
+why not drop him a note if you find the rec.moto.photo archive useful?
+Second, since Bruce has provided the server as a favor, it would be kind
+of you to access it after normal working hours (California time). 
+
+------------------------------------------------------------------------
+
+                      Patches? What patches?
+
+You may have heard mention of various DoD trinkets such as patches &
+pins. And your reaction was probably: "I want!", or "That's sick!", or
+perhaps "That's sick! I want!"
+
+Well, there's some good news and some bad news. The good news is that
+there's been an amazing variety of DoD-labeled widgets created. The bad
+news is that there isn't anywhere you can buy any of them. This isn't
+because of any "exclusivity" attempt, but simply because there is no
+"DoD store" that keeps a stock. All of the creations have been done by
+individual Denizens out of their own pockets. The typical procedure is
+someone says "I'm thinking of having a DoD frammitz made, they'll cost
+$xx.xx, with $xx.xx going to the AMA museum. Anyone want one?" Then
+orders are taken, and a batch of frammitzes large enough to cover the
+pre-paid orders is produced (and quickly consumed). So if you want a
+DoD doodad, act quickly the next time somebody decides to do one. Or
+produce one yourself if you see a void that needs filling, after all
+this is anarchy in action.
+
+Here's a possibly incomplete list of known DoD merchandise (and
+perpetrators). Patches (DoD#11), pins (DoD#99), stickers (DoD#99),
+motorcycle license plate frames (DoD#216), t-shirts (DoD#99), polo shirts
+(DoD#122), Zippo lighters (DoD#99) [LtF FtL], belt buckles (DoD#99), and
+patches (DoD#99) [a second batch was done (and rapidly consumed) by
+popular demand].
+
+All "profits" have been donated to the American Motorcyclist Association
+Motorcycle Heritage Museum. As of June 1992, over $5500 dollars has been
+contributed to the museum fund by the DoD. If you visit the museum,
+you'll see a large plaque on the Founders' Wall in the name of "Denizens
+of Doom, USENET, The World", complete with a DoD pin.
+
+------------------------------------------------------------------------
+
+Here's a letter from the AMA to the DoD regarding our contributions.
+
+~Newsgroups: rec.motorcycles
+~From: Arnie Skurow <arnie@magnus.acs.ohio-state.edu>
+~Subject: A letter from the Motorcycle Heritage Museum
+~Date: Mon, 13 Apr 1992 11:04:58 GMT
+
+I received the following letter from Jim Rogers, director of the Museum,
+the other day.
+
+"Dear Arnie and all members of the Denizens of Doom:
+
+Congratulations and expressions of gratitude are in order for you and the
+Denizens of Doom!  With your recent donation, the total amount donated is
+now $5,500.  On behalf of the AMHF, please extend my heartfeld gratitude
+to all the membership of the Denizens.  The club's new plaque is presently
+being prepared.  Of course, everyone is invited to come to the museum to 
+see the plaque that will be installed in our Founders Foyer.  By the way,
+I will personally mount a Denizens club pin on the plaque.  Again, thank 
+you for all your support, which means so much to the foundation, the
+museum, and the fulfillment of its goals.
+
+                                Sincerely,
+
+
+                                Jim Rogers, D.O.D. #0395
+                                Director
+
+P.S.  Please post on your computer bulletin board."
+
+As you all know, even though the letter was addressed to me personally,
+it was meant for all of you who purchased DoD goodies that made this
+amount possible.
+
+Arnie
+
+------------------------------------------------------------------------
+
+The Rules, Regulations, & Bylaws of the Denizens of Doom Motorcycle Club
+
+From time to time there is some mention, discussion, or flame about the
+rules of the DoD. In order to fan the flames, here is the complete text
+of the rules governing the DoD.
+
+			Rule #1. There are no rules.
+			Rule #0. Go ride.
+
+------------------------------------------------------------------------
+
+		Other rec.motorcycles information resources.
+
+There are several general rec.motorcycles resources that may or may not
+have anything to do with the DoD. Most are posted on a regular basis,
+but they can also be obtained from the cerritos ftp/e-mail server (see
+the info on the photo archive above).
+
+A general rec.motorcycles FAQ is maintained by Dave Williams.
+Cerritos filenames are FAQn.TXT, where n is currently 1-5.
+
+The DoD Yellow Pages, a listing of motorcycle industry vendor phone
+numbers & addresses, is maintained by bob pakser.
+Cerritos filename is YELLOW_PAGES_Vnn, where n is the rev. number.
+
+The List of the DoD membership is maintained by The Keeper of the List.
+Cerritos filename is DOD.LIST.
+
+This WitDoD FAQ (surprise, surprise!) is maintained by yours truly.
+Cerritos filename is DOD_FAQ.TXT.
+
+Additions, corrections, etc. for any of the above should be aimed at
+the keepers of the respective texts.
+
+------------------------------------------------------------------------
+
+(Loki Jorgenson loki@Physics.McGill.CA) has provided an archive site
+for motorcycle and accessory reviews, here's an excerpt from his
+periodic announcement.
+
+**********************************************************
+
+	The Rec.Motorcycles.Reviews Archives (and World Famous Llama
+  Emporium) contains a Veritable Plethora (tm) of bike (and accessories)
+  reviews, written by rec.moto readers based on their own experiences.
+  These invaluable gems of opinion (highly valued for their potential to
+  reduce noise on the list) can be accessed via anonymous FTP, Email
+  server or by personal request:
+
+  Anonymous FTP:		ftp.physics.mcgill.ca (132.206.9.13)
+					under ~ftp/pub/DoD
+  Email archive server:		rm-reviews@ftp.physics.mcgill.ca
+  Review submissions/questions:	rm-reviews@physics.mcgill.ca
+
+  NOTE: There is a difference in the addresses for review submission
+      and using the Email archive server (ie. an "ftp.").
+
+  To get started with the Email server, send an Email message with a line
+  containing only "send help".  
+
+  NOTE: If your return address appears like
+	domain!subdomain!host!username
+      in your mail header, include a line like (or something similar)
+	path username@host.subdomain.domain 
+
+	If you are interested in submitting a review of a bike that you
+  already own(ed), PLEASE DO!  There is a template of the format that the
+  reviews are kept in (more or less) available at the archive site .
+  For those who have Internet access but are unsure of how anonymous
+  FTP works, an example script is available on request.
+
+**********************************************************
+
+Reviews of any motorcycle related accessory or widget are welcome too.
+
+------------------------------------------------------------------------
+
+            Updated stats & rec.motorcycles rides info
+
+Some of the info cited above in various places tends to be a moving
+target. Rather than trying to catch every occurence, I'm just sticking
+the latest info down here.
+
+Estimated rec.motorcycles readership: 35K  [news.groups]
+ 
+Approximate DoD Membership: 975  [KotL]
+
+DoD contributions to the American Motorcyclist Association Motorcycle
+Heritage Museum. Over $5500  [Arnie]
+ 
+                        Organized (?) Rides:
+
+Summer 1992 saw more organized rides, with the Joust in its third
+year, and the Ride & Feed going strong, but without the Rollins Pass
+trip due to the collapse of a tunnel.  The East Coast Denizens got
+together for the Right Coast Ride (RCR), with bikers from as far north
+as NH, and as far south as FL meeting in the Blueridge Mountains of
+North Carolina.  The Pacific Northwest crew organized  the first Great
+Pacific Northwest Dryside Gather (GPNDG), another successful excuse for
+riding motorcycles, and seeing the faces behind the names we all have
+come to know so well.  [Thanks to Ed Green for the above addition.]
+
+Also worth mentioning are: The first rec.moto.dirt ride, held in the
+Moab/Canyonlands area of southern Utah. Riders from 5 states showed up,
+riding everything from monster BMWs to itty-bitty XRs to almost-legal
+2-strokes.  And though it's not an "official" (as if anything could be
+official with this crowd) rec.moto event, the vintage motorcycle races
+in Steamboat Springs, Colorado always provides a good excuse for netters
+to gather.  There's also been the occasional Labor Day gather in Utah.
+European Denizens have staged some gathers too.  (Your ad here,
+reasonable rates!)
+------------------------------------------------------------------------
+-- 
+Blaine Gardner @ Evans & Sutherland   580 Arapeen Drive, SLC, Utah 84108
+       blgardne@javelin.sim.es.com     BIX: blaine_g@bix.com      FJ1200
+Half of my vehicles and all of my computers are Kickstarted.      DoD#46
+-- 
+Blaine Gardner @ Evans & Sutherland   580 Arapeen Drive, SLC, Utah 84108
+       blgardne@javelin.sim.es.com     BIX: blaine_g@bix.com      FJ1200
+Half of my vehicles and all of my computers are Kickstarted.      DoD#46
+Newsgroups: rec.motorcycles
+Path: cantaloupe.srv.cs.cmu.edu!rochester!udel!darwin.sura.net!wupost!uunet!murphy!jpradley!magpie!manes
+From: manes@magpie.linknet.com (Steve Manes)
+Subject: Re: Oops! Oh no!
+Organization: Manes and Associates, NYC
+Date: Thu, 1 Apr 1993 17:43:29 GMT
+Message-ID: <C4tFwI.DLp@magpie.linknet.com>
+X-Newsreader: TIN [version 1.1 PL9]
+References: <1pd49g$a8m@vtserf.cc.vt.edu>
+Lines: 53
+
+Wm. L. Ranck (ranck@joesbar.cc.vt.edu) wrote:
+:    I hate to admit this, and I'm still mentally kicking myself for it.
+: I rode the brand new K75RT home last Friday night.  100 miles in rain
+: and darkness.  No problems.  Got it home and put it on the center stand.
+:    The next day I pushed it off the center stand in preparation for going
+: over to a friend's house to pose.  You guessed it.  It got away from me
+: and landed on its right side.  
+:    Scratched the lower fairing, cracked the right mirror, and cracked the
+: upper fairing.  
+:    *DAMN* am I stupid!  It's going to cost me ~$200 to get the local
+: body shop to fix it.  And that is after I take the fairing off for them.
+: Still, that's probably cheaper than the mirror alone if I bought a 
+: replacement from BMW.
+
+You got off cheap.  My sister's ex-boyfriend was such an incessant pain
+in the ass about wanting to ride my bikes (no way, Jose) that I
+finally took him to Lindner's BMW in New Canaan, CT last fall where
+I had seen a nice, used K100RS in perfect condition.  After telling
+everyone in the shop his Norton war stories from fifteen years ago,
+signing the liability waiver, and getting his pre-flight, off he went...
+
+Well, not quite.  I walked out of a pizza shop up the street,
+feeling good about myself (made my sister's boyfriend happy and got
+the persistent wanker off my ass for good), heard the horrendous
+racket of an engine tortured to its red line and then a crash.  I
+saw people running towards the obvious source of the disturbance...
+Jeff laying under the BMW with the rear wheel spinning wildly and
+someone groping for the kill switch.  I stared in disbelief with
+a slice hanging out of my mouth as Matty, the shop manager, slid
+up beside me and asked, "Friend of yours, Steve?".  "Shit, Matty,
+it could have been worse.  That could been my FLHS!"
+
+Jeff hadn't made it 10 inches.  Witnesses said he lifted his feet
+before letting out the clutch and gravity got the best of him.
+Jeff claimed that the clutch didn't engage.  Matty was quick.
+While Jeff was still stuttering in embarrassed shock he managed
+to snatch Jeff's credit card for a quick imprint and signature.  Twenty
+minutes later, when Jeff's color had paled to a flush, Matty
+presented him with an estimate of $580 for a busted right mirror
+and a hairline crack in the fairing.  That was for fixing the crack
+and masking the damaged area, not a new fairing.  Or he could buy the
+bike.
+
+I'm not sure what happened later as my sister split up with Jeff shortly
+afterwards (to hook up with another piece of work) except that Matty
+told me he ran the charge through in December and that it went
+uncontested.
+
+
+-- 
+Stephen Manes					   manes@magpie.linknet.com
+Manes and Associates				   New York, NY, USA  =o&>o
+Path: cantaloupe.srv.cs.cmu.edu!das-news.harvard.edu!ogicse!network.ucsd.edu!news.service.uci.edu!ucivax!megatek!randy
+From: randy@megatek.com (Randy Davis)
+Newsgroups: rec.motorcycles
+Subject: Re: A Miracle in California
+Message-ID: <1993Apr5.223941.11539@megatek.com>
+Date: 5 Apr 93 22:39:41 GMT
+Article-I.D.: megatek.1993Apr5.223941.11539
+References: <95.602CV3dTx01@JUTS.ccc.amdahl.com> <1ppvof$92a@seven-up.East.Sun.COM>
+Sender: randy@megatek.com (Randy Davis)
+Reply-To: randy@megatek.com
+Organization: Megatek Corporation, San Diego, California
+Lines: 15
+
+In article <1ppvof$92a@seven-up.East.Sun.COM> egreen@East.Sun.COM writes:
+|Bikers wave to bikers the world over.  Whether or not Harley riders
+|wave to other bikers is one of our favorite flame wars...
+
+  I am happy to say that some Harley riders in our area are better than most
+that are flamed about here: I (riding a lowly sport bike, no less) and my
+girlfriend were the recipient of no less than twenty waves from a group of
+at least twenty-five Harley riders.  I was leading a group of about four
+sport bikes at the time (FJ1200/CBR900RR/VFR750).  I initiated *some* of the
+waves, but not all.  It was a perfect day, and friendly riders despite some
+brand differences made it all the better...
+
+Randy Davis                            Email: randy@megatek.com
+ZX-11 #00072 Pilot                            {uunet!ucsd}!megatek!randy
+DoD #0013
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!gatech!news-feed-1.peachnet.edu!umn.edu!msus1.msus.edu!stafford.winona.msus.edu!user
+Newsgroups: rec.motorcycles
+Subject: Re: more DoD paraphernalia
+Message-ID: <Stafford-050493122618@stafford.winona.msus.edu>
+From: Stafford@Vax2.Winona.MSUS.Edu (John Stafford)
+Date: 5 Apr 93 13:30:02 -0600
+Followup-To: rec.motorcycles
+References: <1993Apr5.145301.6763@rd.hydro.on.ca> <1pppnrINNitg@cronkite.Central.Sun.COM>
+Distribution: world
+Organization: Winona State University
+Nntp-Posting-Host: stafford.winona.msus.edu
+Lines: 11
+
+In article <1pppnrINNitg@cronkite.Central.Sun.COM>,
+doc@webrider.central.sun.com (Steve Bunis) wrote:
+> 
+> How about a decal of thicker vinyl? 
+
+  How about a Geeky temporary tatoo?  I mean, why should the 
+  RUBs be exempt from a little razzing.
+
+====================================================
+John Stafford   Minnesota State University @ Winona
+                    All standard disclaimers apply.
+
+Newsgroups: rec.motorcycles
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!howland.reston.ans.net!noc.near.net!uunet!news!news.world.net!connected.com!eskimo!maven
+From: maven@eskimo.com (Norman Hamer)
+Subject: Re: A Miracle in California
+Message-ID: <C504qJ.54x@eskimo.com>
+Organization: -> ESKIMO NORTH (206) For-Ever <-
+References: <speedy.133@engr.latech.edu>
+Date: Mon, 5 Apr 1993 08:25:28 GMT
+Lines: 22
+
+Re: Waving...
+
+I must say, that the courtesy of a nod or a wave as I meet other bikers while
+riding does a lot of good things to my mood... While riding is a lot of fun by
+itself, there's something really special about having someone say to you "Hey,
+it's a great day for a ride... Isn't it wonderful that we can spend some time
+on the road on days like this..." with a gesture.
+
+Was sunny today for the first time in a week, took my bike out for a spin down
+to the local salvage yard/bike shop... ran into about 20 other people who were
+down there for similar reasons (there's this GREAT stretch of road on the way
+down there... no side streets, lotsa leaning bends... ;) ... Went on an
+impromptu coffee and bullshit run down to puyallup with a batch of people who 
+I didn't know, but who were my kinda people nonetheless.
+
+As a fellow commented to me while I was admiring his bike... "Hey, it's not
+what you ride, it's that you ride... As long as it has 2 wheels and an engine
+it's the same thing..."
+-- 
+----
+maven@eskimo.com (InterNet)         maven@mavenry.altcit.eskimo.com (UseNet)
+The Maven@The Mavenry (AlterNet)
+
+Newsgroups: rec.motorcycles
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!howland.reston.ans.net!usc!cs.utexas.edu!utnut!torn!watserv2.uwaterloo.ca!aphid.watstar.uwaterloo.ca!MJMUISE
+From: MJMUISE@1302.watstar.uwaterloo.ca (Mike Muise)
+Subject: Re: Drinking and Riding
+Message-ID: <MJMUISE.38.733926270@1302.watstar.uwaterloo.ca>
+Lines: 19
+Sender: news@watserv2.uwaterloo.ca
+Organization: Waterloo Engineering
+References: <C4wKBp.B9w@eskimo.com> <1993Apr3.200529.2206@galaxy.gov.bc.ca>
+Date: Sun, 4 Apr 1993 12:24:30 GMT
+
+In article <C4wKBp.B9w@eskimo.com>, maven@eskimo.com (Norman Hamer) writes:
+>  What is a general rule of thumb for sobriety and cycling? Couple hours 
+> after you "feel" sober? What? Or should I just work with "If I drink 
+> tonight, I don't ride until tomorrow"?
+
+1 hr/drink for the first 4 drinks.
+1.5 hours/drink for the next 6 drinks.
+2 hours/drink for the rest.
+
+These are fairly cautious guidelines, and will work even if you happen to 
+have a low tolerance or body mass.
+I think the cops and "Don't You Dare Drink & Drive" (tm) commercials will 
+usually say 1hr/drink in general, but after about 5 drinks and 5 hrs, you 
+could very well be over the legal limit. 
+Watch yourself.
+-Mike
+  ________________________________________________
+ / Mike Muise / mjmuise@1302.watstar.uwaterloo.ca \ no quotes, no jokes,
+ \ Electrical Engineering, University of Waterloo / no disclaimer, no fear.
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!howland.reston.ans.net!usc!elroy.jpl.nasa.gov!ames!sun-barr!news2me.EBay.Sun.COM!seven-up.East.Sun.COM!laser!egreen
+From: egreen@East.Sun.COM (Ed Green - Pixel Cruncher)
+Newsgroups: rec.motorcycles
+Subject: Re: insect impacts
+Date: 5 Apr 1993 18:57:00 GMT
+Organization: Sun Microsystems, RTP, NC
+Lines: 35
+Distribution: world
+Message-ID: <1ppvds$92a@seven-up.East.Sun.COM>
+References: <1993Apr2.143435.7290@rd.hydro.on.ca>
+Reply-To: egreen@East.Sun.COM
+NNTP-Posting-Host: laser.east.sun.com
+
+In article 7290@rd.hydro.on.ca, jlevine@rd.hydro.on.ca (Jody Levine) writes:
+>>>
+>>>how _do_ the helmetless do it?
+>>
+>>Um, the same way people do it on 
+>>horseback
+>
+>not as fast, and they would probably enjoy eating bugs, anyway
+
+Every bit as fast as a dirtbike, in the right terrain.  And we eat
+flies, thank you.
+
+>>jeeps
+>
+>you're *supposed* to keep the windscreen up
+
+then why does it go down?
+
+>>snow skis
+>
+>NO BUGS, and most poeple who go fast wear goggles
+
+So do most helmetless motorcyclists.
+
+>The question still stands. How do cruiser riders with no or negligible helmets
+>stand being on the highway at 75 mph on buggy, summer evenings?
+
+helmetless != goggleless
+
+---
+Ed Green, former Ninjaite |I was drinking last night with a biker,
+  Ed.Green@East.Sun.COM   |and I showed him a picture of you.  I said,
+DoD #0111  (919)460-8302  |"Go on, get to know her, you'll like her!"
+ (The Grateful Dead) -->  |It seemed like the least I could do...
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!howland.reston.ans.net!agate!ames!sun-barr!news2me.EBay.Sun.COM!seven-up.East.Sun.COM!laser!egreen
+From: egreen@East.Sun.COM (Ed Green - Pixel Cruncher)
+Newsgroups: rec.motorcycles
+Subject: Re: A Miracle in California
+Date: 5 Apr 1993 19:02:39 GMT
+Organization: Sun Microsystems, RTP, NC
+Lines: 25
+Distribution: world
+Message-ID: <1ppvof$92a@seven-up.East.Sun.COM>
+References: <95.602CV3dTx01@JUTS.ccc.amdahl.com>
+Reply-To: egreen@East.Sun.COM
+NNTP-Posting-Host: laser.east.sun.com
+
+In article 602CV3dTx01@JUTS.ccc.amdahl.com, bws20@duts.ccc.amdahl.com (Brian W Simmons) writes:
+>
+>Now maybe this isn't a big deal to some of you, but it is to me.  I was raised
+>in the South, and part of my cultural heritage is waving at passersby.  I
+>waved from the side of the road at passing cars, when I drove I waved or
+>nodded or at least raised an index finger from the steering wheel.  People
+>waved at me as I drove by. 
+
+I was raised in the South, and I can attest that this is true.  Why, on
+one particularly hot day, as I was walking along the road, some good
+ole boys in a truck tossed me a cold beer!  Of course, they were going
+50 mph at the time...
+
+>P.S. To prove this wasn't a fluke, it happened to me again when I was out
+>riding on Wednesday: an unsolicited wave. Wow...
+
+Bikers wave to bikers the world over.  Whether or not Harley riders
+wave to other bikers is one of our favorite flame wars...
+
+---
+Ed Green, former Ninjaite |I was drinking last night with a biker,
+  Ed.Green@East.Sun.COM   |and I showed him a picture of you.  I said,
+DoD #0111  (919)460-8302  |"Go on, get to know her, you'll like her!"
+ (The Grateful Dead) -->  |It seemed like the least I could do...
+Path: cantaloupe.srv.cs.cmu.edu!das-news.harvard.edu!ogicse!emory!gatech!taco!jrwaters
+From: jrwaters@eos.ncsu.edu (JACK ROGERS WATERS)
+Newsgroups: rec.motorcycles
+Subject: Re: Cultural Enquiries
+Message-ID: <1993Apr5.220413.24002@ncsu.edu>
+Date: 5 Apr 93 22:04:13 GMT
+Article-I.D.: ncsu.1993Apr5.220413.24002
+References: <1993Mar17.115603.28712@aber.ac.uk> <1phuse$5u1@sixgun.East.Sun.COM> <C50uGG.9As@cmptrc.lonestar.org>
+Sender: news@ncsu.edu (USENET News System)
+Organization: North Carolina State University, Project Eos
+Lines: 47
+
+In article <C50uGG.9As@cmptrc.lonestar.org> irwin@cmptrc.lonestar.org (Irwin Arnstein) writes:
+>In article <1phuse$5u1@sixgun.East.Sun.COM> egreen@east.sun.com writes:
+>>In article 28712@aber.ac.uk, azw@aber.ac.uk (Andy Woodward) writes:
+>>>Two questions that fascinate me:-
+>>
+>>Check you local blue light special for a sale on lives...
+>>
+>>>1) Why are rednecks called rednecks?
+>>
+>>The origin of the slang is probably a reference to a sunburned neck,
+>>often obtained while performing honest work outdoors.  The neck is
+>>specified to distinguish these people, whose shirt-protected chest and
+>>back are pale, from the elitist wealthy, who, in their idiotic quest
+>>for darker skin pigmentation as a badge of leisure time, overdo it and
+>>get full-body sunburns.
+>>
+>
+>More like those who use their backs instead of their minds to make
+>their living who are usually ignorant and intolerant of anything outside
+>of their group or level of understanding.
+>-- 
+>-------------------------------------------------------------------------
+>"Tuba" (Irwin)      "I honk therefore I am"       CompuTrac-Richardson,Tx
+>irwin@cmptrc.lonestar.org    DoD #0826            (R75/6)
+>-------------------------------------------------------------------------
+
+That sounds like an awfully closed minded, intolerant attitude.
+
+1/2  :')     
+
+I'm not a redneck but . . . try a walk in their shoes first.  Stereotypes
+are usually of very limited value.  I've seen as many ignorant
+self-righteous "open minded" new age lovers of the great planet Earth
+as I have ignorant "red necks".  I don't see a correlation. I don't
+believe that the "redneck" culture, if you can call it that, is
+necessarily inferior or superior to any other.  
+
+I gotta have a beer, I'm making too much sense.  Next thing you know,
+I'll be preaching tolerance . . .. and I'm a conservative.
+
+Jack Waters II
+DoD#1919
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ I don't fear the thief in the night.  Its the one that comes in the  ~
+~ afternoon, when I'm still asleep, that I worry about.                ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
